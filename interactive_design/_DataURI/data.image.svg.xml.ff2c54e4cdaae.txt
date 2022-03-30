@@ -1,0 +1,1 @@
+data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='10' height='16' viewBox='0 0 10 16' fill='none'%3E%3Cpath d='M10 1.88L3.81916 8L10 14.12L8.09717 16L0 8L8.09717 0L10 1.88Z' fill='%230D0D0D'%0A/%3E%3C/svg%3E
