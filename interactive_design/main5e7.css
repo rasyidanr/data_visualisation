@@ -8711,7 +8711,7 @@ main section:last-of-type {
 
 .video-player__wrapper {
     position: relative;
-    padding-bottom: 56.25%;
+    padding-bottom: 200%;
     height: 0
 }
 
