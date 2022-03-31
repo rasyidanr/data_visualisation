@@ -1,4 +1,4 @@
-# data_visualisation
+# Food Consumption Landscape in the UK: Interactive Design
 
 This is a guide on how to run the website using local server:
 
